@@ -14,3 +14,5 @@ TypeScript
 React  
 Tailwind  
 Strapi
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laevatein2070&layout=compact)](https://github.com/laevatein2070/laevatein2070)
