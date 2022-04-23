@@ -5,7 +5,7 @@
 My name is Apiwit Prasittikarnkul. You can call me Yoseph or Yo depend on what you feel more comfortable.
 
 Junior frontend developer that love to build a simple yet beautiful website for everyone to see.  
-I'm currently working on improvement my skills and study Redux.
+I'm currently improving my frontend skills and study Redux.
 
 :book: Skills
 
