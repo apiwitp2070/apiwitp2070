@@ -14,4 +14,4 @@ React
 Tailwind  
 Strapi
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laevatein2070&layout=compact)](https://github.com/laevatein2070/laevatein2070)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apiwitp2070&layout=compact)](https://github.com/apiwitp2070/apiwitp2070)
