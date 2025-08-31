@@ -1,8 +1,20 @@
 <h1 align="center">Hi there, I'm <a href="https://apiwit.me">Apiwit</a></h1>
 
-### Tech Stack & Tools
+- I build varities of web apps, custom CMS platforms, and sometimes minimal dev tools.
+- Mainly use Nextjs and Tailwind CSS.
+- Would love to try new tools and frameworks too!
 
-#### Frontend / UI
+---
+
+### Some Random Stuff I Made
+
+- [Midi Visualizer](https://github.com/apiwitp2070/midi-visualizer) A midi player and visualizer.
+- [Conventor](https://github.com/apiwitp2070/conventor) Convert slug or variable name to another common type.
+- [Umaracer](https://github.com/apiwitp2070/umaracer) Race planner for the game Umamusume
+
+---
+
+### Tech Stack & Tools
 
 <p align="left">
   <!-- Frontend -->
@@ -19,8 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" width="40" height="40"/>
 </p>
 
-#### Backend
-
 <p align="left">
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" height="40"/>
@@ -30,8 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
 </p>
-
-#### Tools
 
 <p align="left">
   <!-- Dev Tools -->
@@ -44,22 +52,6 @@
   <!-- Other -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
-
----
-
-### About Me
-
-- I build varities of web apps, custom CMS platforms, and sometimes minimal dev tools.
-- Mainly use Nextjs and Tailwind CSS.
-- Would love to try new tools and frameworks too!
-
----
-
-### Some Random Stuff
-
-- [Midi Visualizer](https://github.com/apiwitp2070/midi-visualizer) A midi player and visualizer.
-- [Conventor](https://github.com/apiwitp2070/conventor) Convert slug or variable name to another common type.
-- [Umaracer](https://github.com/apiwitp2070/umaracer) Race planner for the game Umamusume
 
 ---
 
