@@ -55,6 +55,16 @@
 
 ---
 
+### Some Random Stuff
+
+- [Midi Visualizer](https://github.com/apiwitp2070/midi-visualizer) A midi player and visualizer.
+- [Conventor](https://github.com/apiwitp2070/conventor) Convert slug or variable name to another common type.
+- [Umaracer](https://github.com/apiwitp2070/umaracer) Race planner for the game Umamusume
+
+---
+
+### Other Info
+
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/apiwit-prasittikarnkul-99b38b342/)
 - Portfolio: [Click here gently](https://apiwit.me)
 - Github: You are already here!
