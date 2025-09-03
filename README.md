@@ -10,7 +10,6 @@
 
 - [Midi Visualizer](https://github.com/apiwitp2070/midi-visualizer) A midi player and visualizer.
 - [Conventor](https://github.com/apiwitp2070/conventor) Convert slug or variable name to another common type.
-- [Umaracer](https://github.com/apiwitp2070/umaracer) Race planner for the game Umamusume
 
 ---
 
