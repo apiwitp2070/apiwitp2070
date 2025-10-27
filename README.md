@@ -8,8 +8,9 @@
 
 ### Some Random Stuff I Made
 
-- [Midi Visualizer](https://github.com/apiwitp2070/midi-visualizer) A midi player and visualizer.
-- [Conventor](https://github.com/apiwitp2070/conventor) Convert slug or variable name to another common type.
+- [Midi Visualizer](https://midi-visualize.netlify.app) A midi player and visualizer.
+- [Conventor](https://var-conventor.netlify.app) Convert slug or variable name to another common type.
+- [InfraDB](https://infradb.netlify.app) Simplify some of your infra workflow and reducing your clicks.
 
 ---
 
