@@ -8,7 +8,7 @@
 
 ### Some Random Stuff I Made
 
-- [Midi Visualizer](https://midiapiwit.me) A midi player and visualizer.
+- [Midi Visualizer](https://midi.apiwit.me) A midi player and visualizer.
 - [InfraDB](https://infradb.apiwit.me) Simplify some of your infra workflow and reducing your clicks.
 - [Siam Which Floor](https://swf.apiwit.me) Search for correct platform to on board from BTS Siam. No more confusing with floors and sides.
 
