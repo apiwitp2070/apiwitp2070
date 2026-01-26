@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm <a href="https://apiwit.me">Apiwit</a></h1>
 
 - I build varities of web apps, custom CMS platforms, and sometimes minimal dev tools.
-- Mainly use Nextjs and Tailwind CSS.
+- Mainly use Nextjs, Nuxt and Tailwind CSS.
 - Would love to try new tools and frameworks too!
 
 ---
 
-### Some Random Stuff I Made
+### Random Stuff
 
 - [Midi Visualizer](https://midi.apiwit.me) A midi player and visualizer.
 - [InfraDB](https://infradb.apiwit.me) Simplify some of your infra workflow and reducing your clicks.
@@ -59,8 +59,7 @@
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/apiwit-prasittikarnkul-99b38b342/)
 - Portfolio: [Click here gently](https://apiwit.me)
-- Github: You are already here!
 
 ---
 
-If you somehow came across this message no matter how and why, I hope you have a great day yesterday, today and tomorrow too!
+> If you somehow came across this message no matter how and why, I hope you have a great day yesterday, today and tomorrow too!
