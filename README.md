@@ -1,15 +1,15 @@
 <h1 align="center">Hi there, I'm <a href="https://apiwit.me">Apiwit</a></h1>
 
-- I build varities of web apps, custom CMS platforms, and sometimes minimal dev tools.
-- Mainly use Nextjs, Nuxt and Tailwind CSS.
+- I build varities of web apps, custom CMS platforms, and sometimes minimal dev tools and generators.
+- Mainly use Nextjs, Nuxt, Vite and Tailwind CSS.
 - Would love to try new tools and frameworks too!
 
 ---
 
 ### Random Stuff
 
+- [Vinai](https://vinai.apiwit.me) A habbit tracker app with rewarding.
 - [Midi Visualizer](https://midi.apiwit.me) A midi player and visualizer.
-- [InfraDB](https://infradb.apiwit.me) Simplify some of your infra workflow and reducing your clicks.
 - [Siam Which Floor](https://swf.apiwit.me) Search for correct platform to on board from BTS Siam. No more confusing with floors and sides.
 
 ---
