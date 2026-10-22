@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://apiwit.me">Apiwit</a></h1>
 
----
-
 ### Random Stuff
 
 - [Jigsaw](https://playground.apiwit.me/jigsaw)
